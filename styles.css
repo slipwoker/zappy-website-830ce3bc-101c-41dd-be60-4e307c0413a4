@@ -5602,6 +5602,14 @@ body.accessibility-widget-visible ._access-menu {
   }
 }
 
+.navbar .logo-link .logo, .navbar .nav-brand .logo {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  max-height: 50px !important;
+  width: auto !important;
+}
+
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */
 /* For RTL sites: hamburger on RIGHT, phone on LEFT (mirror of LTR layout) */
