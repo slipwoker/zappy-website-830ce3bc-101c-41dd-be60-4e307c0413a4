@@ -1,0 +1,49 @@
+# מוריה ביטוח — Generative Engine Optimization Map
+
+> Moria Insurance is a personal insurance agency specializing in life and health insurance, where the client is at the heart of everything. The agency positions itself against impersonal or cheap-looking alternatives by emphasizing trust, professional claims handling, and genuine care for policyholders — especially at the critical moment when they need to use their coverage. The brand voice is warm, reassuring, and client-first, stressing that real value is proven not at the point of sale, but when it truly matters.
+
+---
+
+## Pages
+
+### בית
+https://-830ce3bc.zappy5.app
+מוריה ביטוח – סוכנות ביטוח אישית שמציבה אתכם במרכז. ביטוח חיים, בריאות ומחלות קשות עם ליווי מקצועי אמיתי ברגע שחשוב. קבלו הצעה עכשיו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-830ce3bc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-830ce3bc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-830ce3bc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מוריה ביטוח
+Moria Insurance is a personal insurance agency specializing in life and health insurance, where the client is at the heart of everything. The agency positions itself against impersonal or cheap-looking alternatives by emphasizing trust, professional claims handling, and genuine care for policyholders — especially at the critical moment when they need to use their coverage. The brand voice is warm, reassuring, and client-first, stressing that real value is proven not at the point of sale, but when it truly matters.
+
+## Services/Products
+- ביטוח חיים
+- ביטוח בריאות
+
+## Target Audience
+לקוחות המחפשים ביטוח חיים ובריאות
+
+## Industry
+ביטוח
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-830ce3bc.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-830ce3bc.zappy5.app/robots.txt
