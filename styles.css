@@ -5614,6 +5614,23 @@ body.accessibility-widget-visible ._access-menu {
   width: auto !important;
 }
 
+.index-services-section .index-services-grid {
+  align-items: start !important;
+}
+
+.index-services-section .index-services-card {
+  height: auto !important;
+  min-height: unset !important;
+  overflow: visible !important;
+}
+
+.index-services-section .index-services-card p {
+  overflow: visible !important;
+  display: block !important;
+  white-space: normal !important;
+  max-height: none !important;
+}
+
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */
 /* For RTL sites: hamburger on RIGHT, phone on LEFT (mirror of LTR layout) */
