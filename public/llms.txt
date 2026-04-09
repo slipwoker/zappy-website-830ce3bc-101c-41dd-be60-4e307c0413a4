@@ -1,6 +1,4 @@
-# מוריה ביטוח — Generative Engine Optimization Map
-
-> Moria Insurance is a personal insurance agency specializing in life and health insurance, where the client is at the heart of everything. The agency positions itself against impersonal or cheap-looking alternatives by emphasizing trust, professional claims handling, and genuine care for policyholders — especially at the critical moment when they need to use their coverage. The brand voice is warm, reassuring, and client-first, stressing that real value is proven not at the point of sale, but when it truly matters.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -28,19 +26,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מוריה ביטוח
-Moria Insurance is a personal insurance agency specializing in life and health insurance, where the client is at the heart of everything. The agency positions itself against impersonal or cheap-looking alternatives by emphasizing trust, professional claims handling, and genuine care for policyholders — especially at the critical moment when they need to use their coverage. The brand voice is warm, reassuring, and client-first, stressing that real value is proven not at the point of sale, but when it truly matters.
-
-## Services/Products
-- ביטוח חיים
-- ביטוח בריאות
-
-## Target Audience
-לקוחות המחפשים ביטוח חיים ובריאות
-
-## Industry
-ביטוח
-
+## About Business
 ---
 
 # Additional Resources
