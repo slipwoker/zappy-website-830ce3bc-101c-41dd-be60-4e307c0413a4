@@ -1,35 +1,49 @@
-# Business — Generative Engine Optimization Map
+# מוריה ביטוח — Generative Engine Optimization Map
+
+> Moria Insurance is a personal insurance agency specializing in life and health insurance, where the client is at the heart of everything. The agency positions itself against impersonal or cheap-looking alternatives by emphasizing trust, professional claims handling, and genuine care for policyholders — especially at the critical moment when they need to use their coverage. The brand voice is warm, reassuring, and client-first, stressing that real value is proven not at the point of sale, but when it truly matters.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://moria-bituach.zappy5.app
 מוריה ביטוח – סוכנות ביטוח אישית שמציבה אתכם במרכז. ביטוח חיים, בריאות ומחלות קשות עם ליווי מקצועי אמיתי ברגע שחשוב. קבלו הצעה עכשיו.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://moria-bituach.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://moria-bituach.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://moria-bituach.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מוריה ביטוח
+Moria Insurance is a personal insurance agency specializing in life and health insurance, where the client is at the heart of everything. The agency positions itself against impersonal or cheap-looking alternatives by emphasizing trust, professional claims handling, and genuine care for policyholders — especially at the critical moment when they need to use their coverage. The brand voice is warm, reassuring, and client-first, stressing that real value is proven not at the point of sale, but when it truly matters.
+
+## Services/Products
+- ביטוח חיים
+- ביטוח בריאות
+
+## Target Audience
+לקוחות המחפשים ביטוח חיים ובריאות
+
+## Industry
+ביטוח
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://moria-bituach.zappy5.app/sitemap.xml
+- **Robots.txt**: https://moria-bituach.zappy5.app/robots.txt
