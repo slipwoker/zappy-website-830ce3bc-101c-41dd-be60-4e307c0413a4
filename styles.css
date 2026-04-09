@@ -5654,6 +5654,33 @@ body.accessibility-widget-visible ._access-menu {
 }
 }
 
+.index-services-section .index-services-highlight-box {
+  background: #ffffff;
+  border: 1px solid rgba(207,231,242,0.9);
+  border-radius: 14px;
+  padding: 28px 32px;
+  box-shadow: 0 8px 28px rgba(33,50,74,0.10);
+  text-align: right;
+  position: relative;
+  border-right: 4px solid var(--primary);
+}
+
+.index-services-section .index-services-highlight-question {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-dark);
+  margin: 0 0 10px 0;
+  line-height: 1.6;
+}
+
+.index-services-section .index-services-highlight-answer {
+  font-size: 1rem;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 1.8;
+  margin: 0;
+}
+
 /* ========== RTL MOBILE NAVBAR FIX (zappy-rtl-mobile-fix) ========== */
 /* High-specificity rules to ensure RTL positioning wins over any [lang="en"] conflicts */
 /* For RTL sites: hamburger on RIGHT, phone on LEFT (mirror of LTR layout) */
