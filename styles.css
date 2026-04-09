@@ -2783,10 +2783,11 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   margin: 0 auto;
   padding: 0 32px;
   display: grid;
-  grid-template-columns: 1fr 420px;
-  gap: 64px;
+  grid-template-columns: 1fr 380px;
+  gap: 48px;
   align-items: start;
   direction: rtl;
+  overflow: visible;
 }
 
 /* ── CONTENT COLUMN ── */
@@ -2837,8 +2838,10 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   line-height: 1.8;
   color: var(--text-muted);
   text-align: right;
-  max-width: 560px;
+  max-width: 100%;
   margin: 0;
+  overflow: visible;
+  word-break: break-word;
 }
 
 .index-services-section .index-services-intro strong {
@@ -2862,10 +2865,11 @@ main { margin-top: 0 !important; padding-top: 0 !important; }
   box-shadow: 0 8px 24px rgba(33,50,74,0.08);
   transition: transform 0.25s ease, box-shadow 0.25s ease;
   position: relative;
-  overflow: hidden;
+  overflow: visible;
   text-align: right;
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
+  word-break: break-word;
 }
 
 .index-services-section .index-services-card::before {
